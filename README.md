@@ -20,23 +20,6 @@ Corporate website developed to showcase residential, commercial and specialized 
 
 ## 👨‍💻 Author
 
-**Developed by:** [Your Name or Username]  
-**GitHub:** [@ratomcita](https://github.com/ratomcita)  
+**Developed by:** [@ratomcita](https://github.com/ratomcita)  
 **Portfolio:** [ratomcita.github.io](https://ratomcita.github.io)
-
 This project was built entirely by me, including design, layout and deployment configuration.
-
----
-
-## 🧾 Verification
-
-- 📁 **Original repository:** [github.com/YFMCleaningServices/YFMCleaningServices.github.io](https://github.com/YFMCleaningServices/YFMCleaningServices.github.io)  
-- 📷 **Development history:** You can check the commits in the original repository (all made from the company's account, which I own).
-
----
-
-## 📬 Contact
-
-Want to see more projects or collaborate?  
-- 📧 [your.email@example.com]  
-- 💼 [LinkedIn (optional)]
